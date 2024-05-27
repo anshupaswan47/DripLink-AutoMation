@@ -9,7 +9,6 @@ import sys
 
 import json
 # urls = ['https://linkpays.in/Z7N6Vz25','https://linkpays.in/ALnKpCv','https://linkpays.in/AWptRg']
-
 G = "\033[32m"    # Green
 W = "\033[0m"     # White
 RR = "\033[31;1m" # Red light 
