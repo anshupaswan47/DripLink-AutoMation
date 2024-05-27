@@ -7,7 +7,6 @@ from selenium_stealth import stealth
 from random import randint, choice
 import sys
 
-
 import json
 # urls = ['https://linkpays.in/Z7N6Vz25','https://linkpays.in/ALnKpCv','https://linkpays.in/AWptRg']
 
